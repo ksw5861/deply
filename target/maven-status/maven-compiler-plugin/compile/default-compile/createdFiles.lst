@@ -1,0 +1,10 @@
+springjpa\exam\controller\MeetingController.class
+springjpa\exam\controller\VisitorController.class
+com\example\springedu2\Springedu2Application.class
+springjpa\exam\entity\Visitor.class
+springjpa\exam\entity\Reply.class
+springjpa\exam\repository\MeetingRepository.class
+springjpa\exam\repository\ReplyRepository.class
+springjpa\exam\repository\VisitorRepository.class
+springjpa\exam\entity\Meeting.class
+springjpa\exam\domain\WeatherDTO.class

@@ -1,0 +1,10 @@
+D:\deploy\springedu\deply\src\main\java\com\example\springedu2\Springedu2Application.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\controller\MeetingController.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\controller\VisitorController.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\domain\WeatherDTO.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\entity\Meeting.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\entity\Reply.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\entity\Visitor.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\repository\MeetingRepository.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\repository\ReplyRepository.java
+D:\deploy\springedu\deply\src\main\java\springjpa\exam\repository\VisitorRepository.java
